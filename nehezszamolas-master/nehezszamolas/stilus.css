@@ -1,0 +1,25 @@
+input[type="button"] {
+    width: 35px;
+    margin: 5px;
+    color: darkgreen;
+    background-color: antiquewhite;
+
+}
+
+legend{
+    text-align: center;
+
+}
+
+fieldset{
+    width: 18%;
+    margin: auto;
+    color: darkred;
+    border: dashed 3px;
+    background-color: lightseagreen;
+}
+
+#ablak {
+    width: 235px;
+    align-content: center;
+}
